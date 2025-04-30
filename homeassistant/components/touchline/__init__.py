@@ -1,5 +1,5 @@
 """
-Custom integration for Roth Touchline New with coordinated updates.
+Custom integration for Roth Touchline with coordinated updates.
 This version batches the XML request into smaller chunks to work around potential size limitations.
 """
 
